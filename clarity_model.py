@@ -1,9 +1,3 @@
-# Authors
-# 19K-1536 Aadesh
-# 19K-0180 Banti Kumar
-# 19K-1365 Hamza Ali
-
-
 import pandas as pd
 from sklearn.ensemble import StackingClassifier
 from sklearn.model_selection import cross_val_predict, train_test_split, KFold, cross_val_score
