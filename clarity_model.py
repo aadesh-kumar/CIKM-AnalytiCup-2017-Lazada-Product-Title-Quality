@@ -11,7 +11,7 @@ from sklearn import svm
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('training\data_train.csv')
+df = pd.read_csv('training/data_train.csv')
 
 df_list = df.values.tolist()
 
